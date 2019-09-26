@@ -1,0 +1,13 @@
+#carro {
+    background-color: greenyellow;
+    border: solid 1px black;
+    width: 400px;
+    height: 250px;
+}
+
+#slideholder {
+    height: 300px;
+    width: 300px;
+    border: 3px black solid;
+    transition: 0.5s;
+}

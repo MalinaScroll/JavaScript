@@ -1,0 +1,17 @@
+body {
+    font-family: 'lato';
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+#box1 {
+    width: 500px;
+    height: 250px;
+    border: solid black 1px;
+    border-radius: 10%;
+    margin-top: 200px;
+    background-color: white;
+}
